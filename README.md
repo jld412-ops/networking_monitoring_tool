@@ -3,7 +3,9 @@ This project is a simple network monitoring tool built in Python. It checks if d
 Main code function:
 
 -Pings each Network Device by its IP address
+
 -Measures Latency
+
 -Checks if the device is online (UP or DOWN)
 
 
