@@ -9,4 +9,5 @@ Main code function:
 -Checks if the device is online (UP or DOWN)
 
 
+
 I decided to build this project on my own to help expand my understanding of SQL. I utilized SQL to create a table to help create these devices and records. Python it utilized to print out the status of each device, and continuously check the status using loops every 10 seconds.
